@@ -11,7 +11,7 @@ This project is a simple Spring Boot demo application that demonstrates:
 
 ------------------------------------------------------------------------
 
-# Project Structure
+# Project Structure (To be revised)
 
     src
     └── main
@@ -23,8 +23,6 @@ This project is a simple Spring Boot demo application that demonstrates:
                 ├── PaymentService.java
                 ├── PayPalPaymentService.java
                 └── StripePaymentService.java
-
-Each file has a specific role in the application.
 
 ------------------------------------------------------------------------
 
